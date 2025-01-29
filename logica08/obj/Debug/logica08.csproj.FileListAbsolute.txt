@@ -1,0 +1,7 @@
+C:\Users\maria.csmorais2\Documents\Visual Studio 2022\logicadeprogramação\logica08\bin\Debug\logica08.exe.config
+C:\Users\maria.csmorais2\Documents\Visual Studio 2022\logicadeprogramação\logica08\bin\Debug\logica08.exe
+C:\Users\maria.csmorais2\Documents\Visual Studio 2022\logicadeprogramação\logica08\bin\Debug\logica08.pdb
+C:\Users\maria.csmorais2\Documents\Visual Studio 2022\logicadeprogramação\logica08\obj\Debug\logica08.csproj.AssemblyReference.cache
+C:\Users\maria.csmorais2\Documents\Visual Studio 2022\logicadeprogramação\logica08\obj\Debug\logica08.csproj.CoreCompileInputs.cache
+C:\Users\maria.csmorais2\Documents\Visual Studio 2022\logicadeprogramação\logica08\obj\Debug\logica08.exe
+C:\Users\maria.csmorais2\Documents\Visual Studio 2022\logicadeprogramação\logica08\obj\Debug\logica08.pdb
